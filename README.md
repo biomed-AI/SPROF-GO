@@ -1,4 +1,4 @@
-<img src="https://github.com/biomed-AI/SPROF-GO/blob/main/image/logo.png" width = "150" height = "150" alt="logo" align=left />   
+<p><img src="https://github.com/biomed-AI/SPROF-GO/blob/main/image/logo.png" width = "150" height = "150" alt="logo" align=left /></p>
   
     
 # Introduction
