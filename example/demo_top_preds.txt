@@ -1,0 +1,325 @@
+Q6DR03
+MF:
+GO:0003824 | catalytic activity | 0.834
+GO:0016747 | transferase activity, transferring acyl groups other than amino-acyl groups | 0.755
+GO:0016746 | transferase activity, transferring acyl groups | 0.755
+GO:0016740 | transferase activity | 0.755
+GO:0016409 | palmitoyltransferase activity | 0.345
+GO:0005488 | binding | 0.115
+GO:0005515 | protein binding | 0.107
+GO:0043167 | ion binding | 0.023
+GO:0043168 | anion binding | 0.022
+GO:0008374 | O-acyltransferase activity | 0.019
+GO:0140096 | catalytic activity, acting on a protein | 0.018
+GO:0016491 | oxidoreductase activity | 0.016
+GO:0008289 | lipid binding | 0.015
+GO:0005543 | phospholipid binding | 0.013
+GO:0022857 | transmembrane transporter activity | 0.012
+GO:0015075 | ion transmembrane transporter activity | 0.012
+GO:0005215 | transporter activity | 0.012
+GO:0019787 | ubiquitin-like protein transferase activity | 0.011
+GO:0022803 | passive transmembrane transporter activity | 0.01
+GO:0015318 | inorganic molecular entity transmembrane transporter activity | 0.01
+BP:
+GO:0009987 | cellular process | 0.758
+GO:0071704 | organic substance metabolic process | 0.501
+GO:0008152 | metabolic process | 0.501
+GO:0044237 | cellular metabolic process | 0.472
+GO:0044238 | primary metabolic process | 0.431
+GO:0043170 | macromolecule metabolic process | 0.399
+GO:0044260 | cellular macromolecule metabolic process | 0.392
+GO:1901564 | organonitrogen compound metabolic process | 0.382
+GO:0019538 | protein metabolic process | 0.382
+GO:0006807 | nitrogen compound metabolic process | 0.382
+GO:0044267 | cellular protein metabolic process | 0.378
+GO:0043412 | macromolecule modification | 0.374
+GO:0036211 | protein modification process | 0.374
+GO:0006464 | cellular protein modification process | 0.374
+GO:1901576 | organic substance biosynthetic process | 0.33
+GO:0009058 | biosynthetic process | 0.33
+GO:0009059 | macromolecule biosynthetic process | 0.324
+GO:0050896 | response to stimulus | 0.3
+GO:0044249 | cellular biosynthetic process | 0.296
+GO:0032502 | developmental process | 0.288
+CC:
+GO:0110165 | cellular anatomical entity | 0.998
+GO:0016020 | membrane | 0.597
+GO:0005886 | plasma membrane | 0.581
+GO:0071944 | cell periphery | 0.568
+GO:0005622 | intracellular | 0.477
+GO:0043226 | organelle | 0.454
+GO:0043227 | membrane-bounded organelle | 0.439
+GO:0005737 | cytoplasm | 0.439
+GO:0043229 | intracellular organelle | 0.423
+GO:0043231 | intracellular membrane-bounded organelle | 0.418
+GO:0012505 | endomembrane system | 0.34
+GO:0005783 | endoplasmic reticulum | 0.177
+GO:0005794 | Golgi apparatus | 0.111
+GO:0097708 | intracellular vesicle | 0.051
+GO:0031982 | vesicle | 0.051
+GO:0031410 | cytoplasmic vesicle | 0.051
+GO:0005768 | endosome | 0.049
+GO:0031984 | organelle subcompartment | 0.047
+GO:0031090 | organelle membrane | 0.047
+GO:0098791 | Golgi subcompartment | 0.045
+
+Q9LIB5
+MF:
+GO:0005488 | binding | 0.845
+GO:1901363 | heterocyclic compound binding | 0.824
+GO:0097159 | organic cyclic compound binding | 0.824
+GO:0003676 | nucleic acid binding | 0.824
+GO:0003677 | DNA binding | 0.804
+GO:0044212 | transcription regulatory region DNA binding | 0.463
+GO:0001067 | regulatory region nucleic acid binding | 0.463
+GO:0140110 | transcription regulator activity | 0.392
+GO:0003700 | DNA-binding transcription factor activity | 0.385
+GO:0005515 | protein binding | 0.313
+GO:0043565 | sequence-specific DNA binding | 0.231
+GO:0003690 | double-stranded DNA binding | 0.127
+GO:1990837 | sequence-specific double-stranded DNA binding | 0.106
+GO:0000976 | transcription regulatory region sequence-specific DNA binding | 0.099
+GO:0008134 | transcription factor binding | 0.087
+GO:0000987 | proximal promoter sequence-specific DNA binding | 0.069
+GO:0000981 | DNA-binding transcription factor activity, RNA polymerase II-specific | 0.064
+GO:0001012 | RNA polymerase II regulatory region DNA binding | 0.045
+GO:0000978 | RNA polymerase II proximal promoter sequence-specific DNA binding | 0.044
+GO:0000977 | RNA polymerase II regulatory region sequence-specific DNA binding | 0.044
+BP:
+GO:0065007 | biological regulation | 0.633
+GO:0050789 | regulation of biological process | 0.633
+GO:0050794 | regulation of cellular process | 0.598
+GO:0019222 | regulation of metabolic process | 0.577
+GO:0060255 | regulation of macromolecule metabolic process | 0.56
+GO:0010468 | regulation of gene expression | 0.56
+GO:0051171 | regulation of nitrogen compound metabolic process | 0.557
+GO:0031326 | regulation of cellular biosynthetic process | 0.557
+GO:0031323 | regulation of cellular metabolic process | 0.557
+GO:0009889 | regulation of biosynthetic process | 0.557
+GO:0050896 | response to stimulus | 0.535
+GO:2001141 | regulation of RNA biosynthetic process | 0.519
+GO:2000112 | regulation of cellular macromolecule biosynthetic process | 0.519
+GO:1903506 | regulation of nucleic acid-templated transcription | 0.519
+GO:0080090 | regulation of primary metabolic process | 0.519
+GO:0051252 | regulation of RNA metabolic process | 0.519
+GO:0019219 | regulation of nucleobase-containing compound metabolic process | 0.519
+GO:0010556 | regulation of macromolecule biosynthetic process | 0.519
+GO:0006355 | regulation of transcription, DNA-templated | 0.519
+GO:0032502 | developmental process | 0.331
+CC:
+GO:0110165 | cellular anatomical entity | 0.994
+GO:0005622 | intracellular | 0.981
+GO:0043231 | intracellular membrane-bounded organelle | 0.963
+GO:0043229 | intracellular organelle | 0.963
+GO:0043227 | membrane-bounded organelle | 0.963
+GO:0043226 | organelle | 0.963
+GO:0005634 | nucleus | 0.958
+GO:0070013 | intracellular organelle lumen | 0.125
+GO:0043233 | organelle lumen | 0.125
+GO:0031974 | membrane-enclosed lumen | 0.125
+GO:0031981 | nuclear lumen | 0.122
+GO:0005737 | cytoplasm | 0.108
+GO:0043232 | intracellular non-membrane-bounded organelle | 0.082
+GO:0043228 | non-membrane-bounded organelle | 0.082
+GO:0005829 | cytosol | 0.071
+GO:0005654 | nucleoplasm | 0.069
+GO:0005694 | chromosome | 0.043
+GO:0000785 | chromatin | 0.042
+GO:0000790 | nuclear chromatin | 0.041
+GO:0005730 | nucleolus | 0.04
+
+Q810K3
+MF:
+GO:0003824 | catalytic activity | 0.994
+GO:0042578 | phosphoric ester hydrolase activity | 0.981
+GO:0016791 | phosphatase activity | 0.981
+GO:0016788 | hydrolase activity, acting on ester bonds | 0.981
+GO:0016787 | hydrolase activity | 0.981
+GO:0050308 | sugar-phosphatase activity | 0.17
+GO:0019203 | carbohydrate phosphatase activity | 0.17
+GO:0016740 | transferase activity | 0.079
+GO:0016772 | transferase activity, transferring phosphorus-containing groups | 0.064
+GO:0016780 | phosphotransferase activity, for other substituted phosphate groups | 0.045
+GO:0016818 | hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides | 0.039
+GO:0016817 | hydrolase activity, acting on acid anhydrides | 0.039
+GO:0016462 | pyrophosphatase activity | 0.038
+GO:0005488 | binding | 0.032
+GO:0052745 | inositol phosphate phosphatase activity | 0.022
+GO:0008081 | phosphoric diester hydrolase activity | 0.022
+GO:0016298 | lipase activity | 0.021
+GO:0140096 | catalytic activity, acting on a protein | 0.02
+GO:0052866 | phosphatidylinositol phosphate phosphatase activity | 0.02
+GO:0005515 | protein binding | 0.019
+BP:
+GO:0009987 | cellular process | 0.916
+GO:0008152 | metabolic process | 0.903
+GO:0071704 | organic substance metabolic process | 0.896
+GO:0044237 | cellular metabolic process | 0.876
+GO:0044238 | primary metabolic process | 0.872
+GO:0044255 | cellular lipid metabolic process | 0.818
+GO:0006629 | lipid metabolic process | 0.818
+GO:1901576 | organic substance biosynthetic process | 0.679
+GO:0009058 | biosynthetic process | 0.679
+GO:0044249 | cellular biosynthetic process | 0.65
+GO:0008610 | lipid biosynthetic process | 0.603
+GO:0006807 | nitrogen compound metabolic process | 0.599
+GO:1901564 | organonitrogen compound metabolic process | 0.598
+GO:0006643 | membrane lipid metabolic process | 0.452
+GO:0006665 | sphingolipid metabolic process | 0.432
+GO:1901566 | organonitrogen compound biosynthetic process | 0.411
+GO:0044281 | small molecule metabolic process | 0.384
+GO:0046467 | membrane lipid biosynthetic process | 0.343
+GO:0006796 | phosphate-containing compound metabolic process | 0.331
+GO:0006793 | phosphorus metabolic process | 0.331
+CC:
+GO:0110165 | cellular anatomical entity | 0.992
+GO:0043227 | membrane-bounded organelle | 0.858
+GO:0043226 | organelle | 0.858
+GO:0012505 | endomembrane system | 0.805
+GO:0016020 | membrane | 0.752
+GO:0005622 | intracellular | 0.731
+GO:0043229 | intracellular organelle | 0.658
+GO:0043231 | intracellular membrane-bounded organelle | 0.648
+GO:0005737 | cytoplasm | 0.592
+GO:0031090 | organelle membrane | 0.565
+GO:0005789 | endoplasmic reticulum membrane | 0.556
+GO:0042175 | nuclear outer membrane-endoplasmic reticulum membrane network | 0.534
+GO:0005783 | endoplasmic reticulum | 0.433
+GO:0071944 | cell periphery | 0.188
+GO:0005886 | plasma membrane | 0.188
+GO:0031224 | intrinsic component of membrane | 0.124
+GO:0016021 | integral component of membrane | 0.115
+GO:0005634 | nucleus | 0.097
+GO:0070013 | intracellular organelle lumen | 0.077
+GO:0043233 | organelle lumen | 0.077
+
+F4HVS0
+MF:
+GO:0140096 | catalytic activity, acting on a protein | 0.856
+GO:0019787 | ubiquitin-like protein transferase activity | 0.856
+GO:0016740 | transferase activity | 0.856
+GO:0004842 | ubiquitin-protein transferase activity | 0.856
+GO:0003824 | catalytic activity | 0.856
+GO:0005488 | binding | 0.758
+GO:0005515 | protein binding | 0.641
+GO:0046872 | metal ion binding | 0.336
+GO:0043169 | cation binding | 0.336
+GO:0043167 | ion binding | 0.336
+GO:0061659 | ubiquitin-like protein ligase activity | 0.32
+GO:0061630 | ubiquitin protein ligase activity | 0.32
+GO:0046914 | transition metal ion binding | 0.306
+GO:0008270 | zinc ion binding | 0.23
+GO:0005102 | signaling receptor binding | 0.112
+GO:0005506 | iron ion binding | 0.089
+GO:0042802 | identical protein binding | 0.08
+GO:0046983 | protein dimerization activity | 0.066
+GO:0042803 | protein homodimerization activity | 0.061
+GO:0070851 | growth factor receptor binding | 0.056
+BP:
+GO:0009987 | cellular process | 0.728
+GO:0065007 | biological regulation | 0.654
+GO:0050896 | response to stimulus | 0.505
+GO:0050789 | regulation of biological process | 0.495
+GO:0044237 | cellular metabolic process | 0.473
+GO:0008152 | metabolic process | 0.473
+GO:0071704 | organic substance metabolic process | 0.447
+GO:0050794 | regulation of cellular process | 0.442
+GO:0006807 | nitrogen compound metabolic process | 0.439
+GO:1901564 | organonitrogen compound metabolic process | 0.42
+GO:0044238 | primary metabolic process | 0.42
+GO:0043170 | macromolecule metabolic process | 0.419
+GO:0019538 | protein metabolic process | 0.411
+GO:0044260 | cellular macromolecule metabolic process | 0.409
+GO:0044267 | cellular protein metabolic process | 0.401
+GO:0043412 | macromolecule modification | 0.391
+GO:0036211 | protein modification process | 0.384
+GO:0006464 | cellular protein modification process | 0.384
+GO:0006950 | response to stress | 0.382
+GO:0070647 | protein modification by small protein conjugation or removal | 0.326
+CC:
+GO:0110165 | cellular anatomical entity | 0.972
+GO:0005622 | intracellular | 0.926
+GO:0043226 | organelle | 0.657
+GO:0043229 | intracellular organelle | 0.649
+GO:0043227 | membrane-bounded organelle | 0.64
+GO:0043231 | intracellular membrane-bounded organelle | 0.615
+GO:0005737 | cytoplasm | 0.576
+GO:0005634 | nucleus | 0.534
+GO:0005829 | cytosol | 0.297
+GO:0032991 | protein-containing complex | 0.127
+GO:0071944 | cell periphery | 0.12
+GO:1902494 | catalytic complex | 0.113
+GO:1990234 | transferase complex | 0.11
+GO:0070013 | intracellular organelle lumen | 0.102
+GO:0043233 | organelle lumen | 0.102
+GO:0031981 | nuclear lumen | 0.102
+GO:0031974 | membrane-enclosed lumen | 0.102
+GO:0005654 | nucleoplasm | 0.095
+GO:0000151 | ubiquitin ligase complex | 0.095
+GO:0016020 | membrane | 0.091
+
+Q9LMC7
+MF:
+GO:0005488 | binding | 0.828
+GO:0140110 | transcription regulator activity | 0.608
+GO:0003700 | DNA-binding transcription factor activity | 0.608
+GO:1901363 | heterocyclic compound binding | 0.591
+GO:0097159 | organic cyclic compound binding | 0.591
+GO:0003676 | nucleic acid binding | 0.591
+GO:0003677 | DNA binding | 0.538
+GO:0005515 | protein binding | 0.422
+GO:0044212 | transcription regulatory region DNA binding | 0.276
+GO:0001067 | regulatory region nucleic acid binding | 0.276
+GO:0043565 | sequence-specific DNA binding | 0.218
+GO:0046983 | protein dimerization activity | 0.067
+GO:0042802 | identical protein binding | 0.067
+GO:0003690 | double-stranded DNA binding | 0.065
+GO:1990837 | sequence-specific double-stranded DNA binding | 0.061
+GO:0042803 | protein homodimerization activity | 0.061
+GO:0000976 | transcription regulatory region sequence-specific DNA binding | 0.052
+GO:0003682 | chromatin binding | 0.048
+GO:0000981 | DNA-binding transcription factor activity, RNA polymerase II-specific | 0.012
+GO:0008134 | transcription factor binding | 0.011
+BP:
+GO:0065007 | biological regulation | 0.719
+GO:0050789 | regulation of biological process | 0.719
+GO:0050794 | regulation of cellular process | 0.657
+GO:2001141 | regulation of RNA biosynthetic process | 0.635
+GO:2000112 | regulation of cellular macromolecule biosynthetic process | 0.635
+GO:1903506 | regulation of nucleic acid-templated transcription | 0.635
+GO:0080090 | regulation of primary metabolic process | 0.635
+GO:0060255 | regulation of macromolecule metabolic process | 0.635
+GO:0051252 | regulation of RNA metabolic process | 0.635
+GO:0051171 | regulation of nitrogen compound metabolic process | 0.635
+GO:0031326 | regulation of cellular biosynthetic process | 0.635
+GO:0031323 | regulation of cellular metabolic process | 0.635
+GO:0019222 | regulation of metabolic process | 0.635
+GO:0019219 | regulation of nucleobase-containing compound metabolic process | 0.635
+GO:0010556 | regulation of macromolecule biosynthetic process | 0.635
+GO:0010468 | regulation of gene expression | 0.635
+GO:0009889 | regulation of biosynthetic process | 0.635
+GO:0006355 | regulation of transcription, DNA-templated | 0.635
+GO:0050896 | response to stimulus | 0.599
+GO:0042221 | response to chemical | 0.538
+CC:
+GO:0110165 | cellular anatomical entity | 0.989
+GO:0005622 | intracellular | 0.979
+GO:0043231 | intracellular membrane-bounded organelle | 0.923
+GO:0043229 | intracellular organelle | 0.923
+GO:0043227 | membrane-bounded organelle | 0.923
+GO:0043226 | organelle | 0.923
+GO:0005634 | nucleus | 0.908
+GO:0005737 | cytoplasm | 0.149
+GO:0005829 | cytosol | 0.024
+GO:0016020 | membrane | 0.013
+GO:0031974 | membrane-enclosed lumen | 0.012
+GO:0070013 | intracellular organelle lumen | 0.011
+GO:0043233 | organelle lumen | 0.011
+GO:0071944 | cell periphery | 0.01
+GO:0043232 | intracellular non-membrane-bounded organelle | 0.009
+GO:0043228 | non-membrane-bounded organelle | 0.009
+GO:0032991 | protein-containing complex | 0.008
+GO:0031981 | nuclear lumen | 0.008
+GO:0055044 | symplast | 0.007
+GO:0005886 | plasma membrane | 0.007
+
