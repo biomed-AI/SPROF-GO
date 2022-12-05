@@ -1,5 +1,5 @@
-<div align=center><img src="https://github.com/biomed-AI/SPROF-GO/blob/main/image/logo.png" width = "150" height = "150" alt="logo"/></div>
-    
+<div align=left><img src="https://github.com/biomed-AI/SPROF-GO/blob/main/image/logo.png" width = "150" height = "150" alt="logo"/></div>  
+   
 # Introduction
 SPROF-GO is an alignment-free sequence-based protein function predictor through pretrained language model and homology-based label diffusion. SPROF-GO is easy to install and run, and is also accurate (surpassing the state-of-the-art sequence-based and even network-based methods) and really fast. Empirically, prediction on the three ontologies for 1000 sequences with an average length of 500 only takes about 7 minutes using  an Nvidia GeForce RTX 3090 GPU. If your input is small, you can also use our [SPROF-GO web server](http://bio-web1.nscc-gz.cn/app/SPROF-GO).  
 ![overview](https://github.com/biomed-AI/SPROF-GO/blob/main/image/overview.png)
