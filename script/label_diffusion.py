@@ -141,6 +141,11 @@ def LabelDiffusion(task, initial_pred, test_fasta, outpath, lamda = 1, identity_
 
     os.system("rm {}testVStrain.tsv".format(outpath))
 
+    if len(initial_pred) == 1 and len(train_seed_ID) == 0: # only one test seq and no train seed found
+        end = time.time()
+        print("Diffusion done! Cost {}s.".format(end - start))
+        return initial_pred
+
     train_seed_ID_list = []
     train_seed_fasta = ""
     for ID in train_dataset: # keep the original ID order
