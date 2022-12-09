@@ -42,15 +42,14 @@ The trained SPROF-GO models can be found under `./model/`.
 # Citation and contact
 Citation:  
 ```bibtex
-@article{10.1093/bib/bbac444,
-    author = {Yuan, Qianmu and Chen, Sheng and Wang, Yu and Zhao, Huiying and Yang, Yuedong},
-    title = "{Alignment-free metal ion-binding site prediction from protein sequence through pretrained language model and multi-task learning}",
-    journal = {Briefings in Bioinformatics},
+@article{Yuan2022.12.05.519119,
+    author = {Yuan, Qianmu and Xie, Junjie and Xie, Jiancong and Zhao, Huiying and Yang, Yuedong},
+    title = {Fast and accurate protein function prediction from sequence through pretrained language model and homology-based label diffusion},
+    journal = {bioRxiv},
+    publisher = {Cold Spring Harbor Laboratory},
     year = {2022},
-    month = {10},
-    issn = {1477-4054},
-    doi = {10.1093/bib/bbac444},
-    url = {https://doi.org/10.1093/bib/bbac444},
+    doi = {10.1101/2022.12.05.519119},
+    URL = {https://www.biorxiv.org/content/early/2022/12/08/2022.12.05.519119}
 }
 ```
 
